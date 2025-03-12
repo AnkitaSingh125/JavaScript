@@ -25,5 +25,17 @@ let age = String(your);
 console.log(your);
 console.log(typeof age);
 
+let value = 3
+let negvalue = -value;
+console.log(negvalue);
 
 
+// *****Operators*****//
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2%2);
+// console.log(2/2);
+// console.log(2*2);
+// console.log(2**2);
+
+console.log(true);
