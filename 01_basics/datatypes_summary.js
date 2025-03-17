@@ -27,4 +27,7 @@
  console.log(typeof myFunction);
  console.log(typeof heros);
  
+ //*******************************************
+
+ // Stack(primitive), Heap(Non-Primitive)
  
