@@ -18,11 +18,11 @@ const user = {
 // chai()
 
 
-const chai = function(){
-    let username = "hitesh"
-    console.log(this); //will be undefined it works under object
-}
-chai()
+// const chai = function(){
+//     let username = "hitesh"
+//     console.log(this); //will be undefined it works under object
+// }
+// chai()
 
 //**********Arrow funtion*************
 const chai = () => {
