@@ -12,7 +12,9 @@ console.log();
 //One line execution
 
 const balance = 1000
-if(balance > 500) console.log(test); //use semicolon
+if(balance > 5000) console.log("test"), console.log("test2"); //use comma
+
+//if(balance > 500) console.log("test"); //use semicolon
 
 //Nesting
 // if(balance < 500){
@@ -31,7 +33,7 @@ const debitCard = true
 const loggedInFromGoogle = false
 const loggedInFromEmail = true
 
-if(userLoggedIn && debitCard && 2==3){
+if(userloggedIn && debitCard && 2==3){
     console.log("Allow to buy course"); 
 }
 
